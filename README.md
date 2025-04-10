@@ -1,10 +1,6 @@
 <img src="shino-asada-banner.jpg" alt="shino-asada-banner" width="100%"/>
 
-<h1 align="left">Hello World! 👋</h1>
-
-###
-
-<p align="left">I’m Austine, a Filipino software developer and currently a Bachelor of Science in Information Technology student at Don Honorio Ventura State University.</p>
+<h1 align="left">Hello World!👋 I’m Austine, a Filipino software developer</h1>
 
 ###
 
@@ -45,6 +41,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
+
+<h2 align="left">🛠️Tools:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Austine0829/Austine0829/output/github-snake-dark.svg" />
