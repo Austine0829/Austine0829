@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/u2zOGD8sWCgAAAAM/kakashi-dancing.gif"  />
+  <img height="200" src="shino-asada.gif"  />
 </div>
 
 ###
