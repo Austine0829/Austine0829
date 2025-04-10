@@ -1,4 +1,4 @@
-<img src="sword-art-online-banner.jpg" alt="sword-art-online-banner" width="100%"/>
+<img src="shino-asada-banner.gif" alt="shino-asada-banner" width="100%"/>
 
 <h1 align="left">Hello World! 👋</h1>
 
