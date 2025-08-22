@@ -32,7 +32,7 @@ jobs:
             {
               "snake": "#ffffff",
               "apple": ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#ffffff"],
-              "background": "#000000"
+              "background": "black"
             }
             
         env:
