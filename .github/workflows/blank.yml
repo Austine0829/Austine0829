@@ -31,7 +31,7 @@ jobs:
           palette: |
             {
               "snake": "#ffffff",
-              "apple": ["#ff0000", "#00ff00", "#0000ff", "#ffff00", "#ffffff"],
+              "apple": ["black", "black", "black", "black", "#black"],
               "background": "black"
             }
             
