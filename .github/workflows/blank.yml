@@ -27,7 +27,7 @@ jobs:
           # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg?snake_color=ffffff&color_dots=#ffffff,#ffffff,#ffffff,#ffffff,#ffffff&background=white
-            dist/github-snake-dark.svg?color_snake=orange&color_dots=black,black,black,black,black&background=white
+            dist/github-snake-dark.svg?color_snake=orange&color_dots=white,white,white,white,white&background=white
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
