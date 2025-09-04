@@ -1,6 +1,6 @@
 <h1 align="left">A broke Filipino programmer from the Philippines.</h1>
 
-<p align="left">On a journey to become a full-stack web developer/software engineer.</p>
+<p align="left">On a journey to become a software engineer.</p>
 
 <h3 align="left">Technologies & Tools</h3>
 
