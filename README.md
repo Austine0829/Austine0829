@@ -1,6 +1,6 @@
-<h1 align="left">A 23-year-old Filipino surrounded by Corrupt Politicians, hoping to make his life better through every commit.</h1>
+<h1 align="left">A 23-year-old Filipino hoping to make his life better through every commit.</h1>
 
-<p align="left">A Software Engineer in the making, and currently a second-year Bachelor of Science in Information Technology student at Pampanga State University (formerly DHVSU). Driven by curiosity, I have explored various programming languages, frameworks, and tools to solve problems, and automate processes.</p>
+<p align="left">A Programmer in the making, and currently a second-year Bachelor of Science in Information Technology student at Pampanga State University (formerly DHVSU). Driven by curiosity, I have explored various programming languages, frameworks, and tools to solve problems, and automate processes.</p>
 
 <h3 align="left">Technologies & Tools</h3>
 
