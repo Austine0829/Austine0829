@@ -1,6 +1,6 @@
 <h1 align="left">A 23-year-old Filipino hoping to make his life better through every commit.</h1>
 
-<p align="left">A programmer in the making, and currently a second-year Bachelor of Science in Information Technology student at Pampanga State University (formerly DHVSU). As a curiosity-driven programmer, I have explored various programming languages, frameworks, and tools to solve problems, automate processes, and to build systems that interest me.</p>
+<p align="left">A programmer in the making, and currently a second-year Bachelor of Science in Information Technology student at Pampanga State University (formerly DHVSU). As a curiosity-driven programmer, I have explored various programming languages, frameworks, and tools to solve problems, automate processes, and to build systems that i have interest with.</p>
 
 <h3 align="left">Technologies & Tools</h3>
 
