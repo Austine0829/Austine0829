@@ -1,6 +1,6 @@
 <h1 align="left">A 23-year-old Filipino hoping to make his life better through every commit.</h1>
 
-<p align="left">A programmer in the making, and currently a second-year Bachelor of Science in Information Technology student at Pampanga State University (formerly DHVSU). As a curiosity-driven programmer, I have explored various programming languages, frameworks, and tools to solve problems, automate processes, and to build systems that i have interest with.</p>
+<p align="left">A programmer in the making, and currently a second-year Bachelor of Science in Information Technology student at Pampanga State University (formerly DHVSU). As a curiosity-driven programmer, I have explored various programming languages, frameworks, and tools to solve problems, automate processes, and build systems that I have an interest with.</p>
 
 <h3 align="left">Technologies & Tools</h3>
 
@@ -27,6 +27,19 @@
   <img src="https://img.shields.io/badge/Canva-ffffff.svg?logo=canva&logoColor=000000">
   <img src="https://img.shields.io/badge/EF%20Core-ffffff.svg?logo=dotnet&logoColor=000000">
   <img src="https://img.shields.io/badge/MySQL-ffffff.svg?logo=mysql&logoColor=000000">
+  <img src="https://img.shields.io/badge/Python-ffffff.svg?logo=python&logoColor=000000">
+  <img src="https://img.shields.io/badge/Flutter-ffffff.svg?logo=flutter&logoColor=000000">
+  <img src="https://img.shields.io/badge/Dart-ffffff.svg?logo=dart&logoColor=000000">
+  <img src="https://img.shields.io/badge/SQLite-ffffff.svg?logo=sqlite&logoColor=000000">
+  <img src="https://img.shields.io/badge/TensorFlow-ffffff.svg?logo=tensorflow&logoColor=000000">
+  <img src="https://img.shields.io/badge/Keras-ffffff.svg?logo=keras&logoColor=000000">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ffffff.svg?logo=scikitlearn&logoColor=000000">
+  <img src="https://img.shields.io/badge/Pandas-ffffff.svg?logo=pandas&logoColor=000000">
+  <img src="https://img.shields.io/badge/NumPy-ffffff.svg?logo=numpy&logoColor=000000">
+  <img src="https://img.shields.io/badge/React-ffffff.svg?logo=react&logoColor=000000">
+  <img src="https://img.shields.io/badge/Jupyter-ffffff.svg?logo=jupyter&logoColor=000000">
+  <img src="https://img.shields.io/badge/Ubuntu-ffffff.svg?logo=ubuntu&logoColor=000000">
+  <img src="https://img.shields.io/badge/Linux-ffffff.svg?logo=linux&logoColor=000000">
 </div>
 
 ###
