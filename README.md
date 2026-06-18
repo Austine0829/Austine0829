@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Jupyter-ffffff.svg?logo=jupyter&logoColor=000000">
   <img src="https://img.shields.io/badge/Ubuntu-ffffff.svg?logo=ubuntu&logoColor=000000">
   <img src="https://img.shields.io/badge/Linux-ffffff.svg?logo=linux&logoColor=000000">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-ffffff.svg?logo=tailwindcss&logoColor=000000">
 </div>
 
 ###
