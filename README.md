@@ -2,7 +2,7 @@
 
 <p align="left">A programmer in the making, and currently a second-year Bachelor of Science in Information Technology student at Pampanga State University (formerly DHVSU). As a curiosity-driven programmer, I have explored various programming languages, frameworks, and tools to solve problems, automate processes, and build systems that I have an interest with.</p>
 
-<h3 align="left">Technologies & Tools</h3>
+<h3 align="left">List of Technologies & Tools, I Used With My Projects</h3>
 
 ###
 
